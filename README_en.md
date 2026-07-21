@@ -1,3 +1,4 @@
+🇧🇷 [Português](README.pt-br.md) | 🇺🇸 **English**
 # Lab Dashboard — School Computer Lab Monitoring System
 
 > Real-time dashboard for monitoring the status of a school computer lab's machines, built with Firebase/Firestore and Python.

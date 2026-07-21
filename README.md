@@ -1,3 +1,4 @@
+🇧🇷 **Português** | 🇺🇸 [English](README.md)
 [README_pt.md](https://github.com/user-attachments/files/30242574/README_pt.md)
 # Lab Dashboard — Sistema de Monitoramento de Laboratório de Informática
 

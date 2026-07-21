@@ -1,4 +1,5 @@
 🇧🇷 **Português** | 🇺🇸 [English](README_en.md)
+
 # Lab Dashboard — Sistema de Monitoramento de Laboratório de Informática
 
 > Dashboard em tempo real para monitorar o status das máquinas de um laboratório de informática escolar, construído com Firebase/Firestore e Python.

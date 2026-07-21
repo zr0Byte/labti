@@ -77,4 +77,3 @@ Repare no PC-07: o agente detectou que o IP mudou (`10.0.10.231 → 10.0.4.159`)
 
 Fique à vontade para entrar em contato caso tenha dúvidas sobre esse projeto ou queira trocar uma ideia sobre TI/cibersegurança.
 
-[Uploading README_en.md…]()
